@@ -8,7 +8,7 @@ public class variable {
 
         //string Datatype
         String name = "Rahul";
-        System.out.println(name);
+
          System.out.println(name);
         name="Raj";
         System.out.println(name);
