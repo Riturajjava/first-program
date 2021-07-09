@@ -38,6 +38,17 @@ public class variable {
         System.out.println(flag);
 
         System.out.println("Hello google " + price);
+        int i=1;
+        do {
+            System.out.println("hello..." +i);
+            i++;
+        }
+        while (i<5);
+        int j=0;
+        while (j<4) {
+            System.out.println("Java....." +j);
+            j++;
+        }
 
 
 
