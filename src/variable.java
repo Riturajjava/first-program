@@ -37,6 +37,8 @@ public class variable {
         boolean flag= false;
         System.out.println(flag);
 
+        System.out.println("Hello google " + price);
+
 
 
 
