@@ -1,6 +1,6 @@
 public class First {
 
-    public static void main(String[] agrs ) {
+    public static void main(String[] args ) {
 
         System.out.println(" java program");
         System.out.println("i am prepare java demo class");
@@ -16,25 +16,24 @@ public class First {
            name="raj";{
                System.out.println(name);
         }
-          String age="28"; {
-        System.out.println("Printedage   " + age); }
+          int age=28;
+        System.out.println("Printed age   " + age);
           /* SYNTAX: IF (condition){
                      code
                      }
                      else
-                     {
-                         code
-                     } */
-        int age=28;
-        if (age>30) System.out.println("Person is younger");
-        else {
-            System.out.println("person is kid");
+                      { code
+                      }
+               */
+        int price=550;
+        if (price>500){
+            System.out.println("Price are greater then");
         }
+        else {
+            System.out.println("Price are lower");
 
-        
 
-
-
+        }
     }
 
 }
